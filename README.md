@@ -2,7 +2,7 @@
 
 I am a student at the University of Otago studying [Computer Science](https://youtu.be/67J5vATQbG4) and Entrepreneurship.<br />
 I am also a Web Developer at [CloudCannon](https://cloudcannon.com/).<br />
-I create [videos](https://www.youtube.com/channel/UCz_1mIreCWjmPu0TSPdBCVg), [write](https://magdelinehuang.medium.com/), and [podcast](https://anchor.fm/) too.<br />
+I create [videos](https://www.youtube.com/channel/UCz_1mIreCWjmPu0TSPdBCVg), [write](https://magdelinehuang.medium.com/), and [podcast](https://anchor.fm/sparkingsparks) too.<br />
 
 <!--
 **xsol05/xsol05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
