@@ -1,8 +1,10 @@
 ### Hi, I'm Magdeline! 👩🏻‍💻
 
 I am a student at the University of Otago studying [Computer Science](https://youtu.be/67J5vATQbG4) and Entrepreneurship.<br />
-I am also a Web Developer at [CloudCannon](https://cloudcannon.com/).<br />
-I create [videos](https://www.youtube.com/channel/UCz_1mIreCWjmPu0TSPdBCVg), [write](https://magdelinehuang.medium.com/), and [podcast](https://anchor.fm/sparkingsparks) too.<br />
+I was recently a [Web Developer Intern](https://youtu.be/_03ra3WjViI) at CloudCannon.<br />
+I create [videos](https://www.youtube.com/c/MagdelineHuang/), [write](https://magdelinehuang.medium.com/), and [podcast](https://anchor.fm/sparkingsparks) too.<br />
+
+You can learn more about me [here](https://beacons.page/magdelinehuang)! 
 
 <!--
 **xsol05/xsol05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
