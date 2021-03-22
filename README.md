@@ -6,6 +6,10 @@ I create [videos](https://www.youtube.com/c/MagdelineHuang/), [write](https://ma
 
 You can learn more about me [here](https://beacons.page/magdelinehuang)! 
 
+[![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=xsol05&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsol05)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **xsol05/xsol05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
