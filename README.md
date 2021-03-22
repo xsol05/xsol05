@@ -11,6 +11,8 @@ You can learn more about me [here](https://beacons.page/magdelinehuang)!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsol05)](https://github.com/anuraghazra/github-readme-stats)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@magdelinehuang/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@magdelinehuang/1" alt="Recent Article 1">
+  
+[![SC2 Video](doc/SC2_youtube.gif)](https://youtu.be/_03ra3WjViI)
 
 <!--
 **xsol05/xsol05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
